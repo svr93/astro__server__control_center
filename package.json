@@ -1,0 +1,23 @@
+{
+  "name": "astro__server__control_center",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svr93/astro__server__control_center.git"
+  },
+  "author": "Vladimir Shamsheev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svr93/astro__server__control_center/issues"
+  },
+  "homepage": "https://github.com/svr93/astro__server__control_center#readme",
+  "dependencies": {
+    "impress": "^0.1.395",
+    "pg": "^4.4.3"
+  }
+}
