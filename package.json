@@ -18,6 +18,7 @@
   "homepage": "https://github.com/svr93/astro__server__control_center#readme",
   "dependencies": {
     "impress": "^0.1.395",
+    "node-nailgun": "^1.0.2",
     "pg": "^4.4.3"
   }
 }
